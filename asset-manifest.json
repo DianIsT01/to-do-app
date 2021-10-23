@@ -1,15 +1,15 @@
 {
-  "main.css": "/DianIsT01/to-do-app.git/static/css/main.eb5025e5.chunk.css",
-  "main.js": "/DianIsT01/to-do-app.git/static/js/main.4d8c8bde.chunk.js",
-  "main.js.map": "/DianIsT01/to-do-app.git/static/js/main.4d8c8bde.chunk.js.map",
-  "runtime~main.js": "/DianIsT01/to-do-app.git/static/js/runtime~main.d80d2749.js",
-  "runtime~main.js.map": "/DianIsT01/to-do-app.git/static/js/runtime~main.d80d2749.js.map",
-  "static/css/2.530ca4fc.chunk.css": "/DianIsT01/to-do-app.git/static/css/2.530ca4fc.chunk.css",
-  "static/js/2.f4c68e2f.chunk.js": "/DianIsT01/to-do-app.git/static/js/2.f4c68e2f.chunk.js",
-  "static/js/2.f4c68e2f.chunk.js.map": "/DianIsT01/to-do-app.git/static/js/2.f4c68e2f.chunk.js.map",
-  "index.html": "/DianIsT01/to-do-app.git/index.html",
-  "precache-manifest.5f556e2dca55b988940fede6183ed16d.js": "/DianIsT01/to-do-app.git/precache-manifest.5f556e2dca55b988940fede6183ed16d.js",
-  "service-worker.js": "/DianIsT01/to-do-app.git/service-worker.js",
-  "static/css/2.530ca4fc.chunk.css.map": "/DianIsT01/to-do-app.git/static/css/2.530ca4fc.chunk.css.map",
-  "static/css/main.eb5025e5.chunk.css.map": "/DianIsT01/to-do-app.git/static/css/main.eb5025e5.chunk.css.map"
+  "main.css": "/to-do-app/static/css/main.eb5025e5.chunk.css",
+  "main.js": "/to-do-app/static/js/main.4e2f88e0.chunk.js",
+  "main.js.map": "/to-do-app/static/js/main.4e2f88e0.chunk.js.map",
+  "runtime~main.js": "/to-do-app/static/js/runtime~main.01361c46.js",
+  "runtime~main.js.map": "/to-do-app/static/js/runtime~main.01361c46.js.map",
+  "static/css/2.530ca4fc.chunk.css": "/to-do-app/static/css/2.530ca4fc.chunk.css",
+  "static/js/2.f4c68e2f.chunk.js": "/to-do-app/static/js/2.f4c68e2f.chunk.js",
+  "static/js/2.f4c68e2f.chunk.js.map": "/to-do-app/static/js/2.f4c68e2f.chunk.js.map",
+  "index.html": "/to-do-app/index.html",
+  "precache-manifest.18b0015d399cf5420f1bc0470ca3cea4.js": "/to-do-app/precache-manifest.18b0015d399cf5420f1bc0470ca3cea4.js",
+  "service-worker.js": "/to-do-app/service-worker.js",
+  "static/css/2.530ca4fc.chunk.css.map": "/to-do-app/static/css/2.530ca4fc.chunk.css.map",
+  "static/css/main.eb5025e5.chunk.css.map": "/to-do-app/static/css/main.eb5025e5.chunk.css.map"
 }

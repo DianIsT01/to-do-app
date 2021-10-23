@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/DianIsT01/to-do-app.git/precache-manifest.5f556e2dca55b988940fede6183ed16d.js"
+  "/to-do-app/precache-manifest.18b0015d399cf5420f1bc0470ca3cea4.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/DianIsT01/to-do-app.git/index.html", {
+workbox.routing.registerNavigationRoute("/to-do-app/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
